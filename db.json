@@ -44,21 +44,5 @@
     "logo": "http://lorempixel.com/160/160/",
     "rating": 4.8,
     "Categories": "Sport"
-},
-{
-    "name": "Renouveau TV",
-    "url": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-    "description": "Chaine generaliste",
-    "logo": "http://lorempixel.com/160/160/",
-    "rating": 4.8,
-    "Categories": "Politique"
-},
-{
-    "name": "Pelengri TV",
-    "url": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
-    "description": "Chaine generaliste",
-    "logo": "http://lorempixel.com/160/160/",
-    "rating": 5,
-    "Categories": "Politique"
 }
 ]
