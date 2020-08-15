@@ -1,7 +1,6 @@
 [{ "name": "Anka Télé",
     "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
     "description": "Channe generaliste",
-    "logo": "http://lorempixel.com/160/160/",
     "rating": 5,
     "Categories": "Généraliste" 
 },
@@ -9,7 +8,6 @@
     "name": "Tropic TV",
     "url": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
     "description": "Chaine generaliste",
-    "logo": "http://lorempixel.com/160/160/",
     "rating": 4.8,
     "Categories": "Généraliste"
 },
@@ -17,7 +15,6 @@
     "name": "ENK",
     "url": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
     "description": "Chaine generaliste",
-    "logo": "http://lorempixel.com/160/160/",
     "rating": 4.8,
     "Categories": "Jeunesse"
 },
@@ -25,7 +22,6 @@
     "name": "Nieta TV",
     "url": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
     "description": "Chaine generaliste",
-    "logo": "http://lorempixel.com/160/160/",
     "rating": 4.8,
     "Categories": "Réligion"
 },
@@ -33,7 +29,6 @@
     "name": "Renouveau TV",
     "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
     "description": "Chaine generaliste",
-    "logo": "http://lorempixel.com/160/160/",
     "rating": 4.8,
     "Categories": "Politique"
 }
